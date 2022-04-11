@@ -1,4 +1,4 @@
-# ML
+# Sentiment Analysis on IMDB Dataset
 This is a collection of notebooks to perform Sentiment Analysis on IMDB dataset. 
 1. Notebook1: This involves preprocessing of data and making it ready for applying the models.
 2. Notebook2: This code block is for appying the statistical model like SVM and others on Sentiment analysis using TF-IDF vectorization.
